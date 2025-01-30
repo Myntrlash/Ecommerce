@@ -71,7 +71,7 @@ The dashboard includes the following key visualizations:
 
 ## **How to Use**
 1. Clone this repository to your local machine.
-2. Open the Power BI file (`Ecommerce_Sales_Dashboard.pbix`) using Power BI Desktop.
+2. Open the Power BI file (`Ecommerce Dashboard.pbix`) using Power BI Desktop.
 3. Explore the visualizations and interact with the filters to derive insights.
 
 ---
